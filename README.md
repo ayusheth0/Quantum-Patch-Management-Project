@@ -1,5 +1,6 @@
 # Quantum-Patch-Management-Project
 Quantum Computing Project - Prioritizing Patch Management for Cybersecurity using a Quantum-inspired Vertex Cover Algorithm.
+
 The project is as undertook by Alli Ajagbe and myself (Ayush Sheth).
 
 This is the README file for the project as well as the repo.
